@@ -1,32 +1,27 @@
 # html
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>shivangi</title>
-  </head>
+
+    <h1 align="center">Shivangi</h1>
+ 
   <body>
-    <img src="1a2.jpg" alt="if the image does not appear"style="width:250px;height:250px">
-<h1>welcome</h1>
-<p><em><strong>hey how are you</strong></em></p>
-<p>this is just normal text without bold and itlalics</p>
+    
+<h2>Welcome to my beginner's html repo</h2>
+<p><em><strong>hey how are you?</strong></em></p>
+<p></p>
 <hr>
-<h3>this is smaller text as compared to others</h3>
+
 <ul>
   <li>
-  <a href="https://github.com">Agro</a>
+  <a href="https://github.com">Github</a>
   </li>
   <li>
-    <a href="https://www.facebook.com">kart vit</a>
+    <a href="https://www.facebook.com">Facebook</a>
   </li>
 </ul>
 <ol>
   <li>
-    <a href="https://www.hackerrank.com/">bullet replaced with numbers</a> </li>
-  <li>flash test</li>
-  <li> three pointer</li>
-  <li> text to speech</li>
+    <a href="https://www.hackerrank.com/">Hackerrrank</a> </li>
+  
 </ol>
 <hr>
 <h3>education</h3>
@@ -42,18 +37,18 @@
     </tr>
     <tr>
       <td>
-      2004-2016
+      2004-2014
       </td>
       <td>
-        sunbeam school
+        Sunbeam School Annapurna, Varanasi
       </td>
     </tr>
     <tr>
       <td>
-        2016-2019
+        2014-2018
       </td>
       <td>
-        sunbeam school
+        Sunbeam School Lahartara, Varanasi
       </td>
     </tr>
     <tr>
@@ -61,7 +56,7 @@
         2019-2023
       </td>
       <td>
-        vit
+        B.Tech from Vellore Institute Of Technology
       </td>
     </tr>
   </thead>
